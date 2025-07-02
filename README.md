@@ -1,23 +1,86 @@
-@@ -1,22 +1 @@
-<h1 align="center">Hi 👋, I'm shashwat dev hans</h1>
-<h3 align="center">A passionate Tech developer from India</h3>
-<img align="right" alt="coding-image" width="400" src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1">
+<h1 align="center">Hi 👋, I'm Shashwat Dev Hans</h1>
+<h3 align="center">A Passionate Machine Learning & Computer Vision Enthusiast from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwatdevhans&label=Profile%20views&color=0e75b6&style=flat" alt="shashwatdevhans" /> </p>
-
-- 🌱 I’m currently learning **Data Science Machine Learning Artificial Intelligence**
-
-- 📫 How to reach me **Shashwatdevhans@gmail.com**
-
-- ⚡ Fun fact **I think I know "Hello world" 😅**
-
-<h3 align="left">Connect with me:</h3>
+<!-- Profile Views Counter -->
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shashwatdevhans&label=Profile%20views&color=0e75b6&style=flat" alt="shashwatdevhans" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>   </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- Hero Animation -->
+<div align="center">
+  <h3>🚀 Turning Ideas into Code</h3>
+  <img 
+    src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1" 
+    alt="Shashwat Dev Hans Hero Animation" 
+    width="800" 
+    style="border-radius: 15px; box-shadow: 0 0 15px rgba(0,0,0,0.4);" 
+  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwatdevhans&show_icons=true&locale=en&layout=compact" alt="shashwatdevhans" /></p>Add commentMore actions
+***
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwatdevhans&show_icons=true&locale=en" alt="shashwatdevhans" /></p>Add comment
+- 🎓 Final-year student exploring the world of **AI/ML, Deep Learning, and Computer Vision**  
+- 💡 Always curious about **real-time ML applications**, **drug discovery using AI**, and **autonomous systems**
+- 🔭 Currently working on:  
+  - 🧬 **Protein GO Function Detection** using UniProt APIs & ML  
+  - 📹 Real-time **camera modules** with OpenCV and Python  
+- 🌱 Currently learning:  
+  - 📈 Time Series Forecasting  
+  - ☁️ Model Deployment with **AWS/GCP**  
+  - 🧪 ML for **biological data analysis**  
+- 🧰 Tech stack: `Python`, `Pandas`, `NumPy`, `OpenCV`, `PyTorch`, `YOLO`, `Sklearn`, `Flask`
+
+---
+
+### 📂 Projects Spotlight
+
+Here are a few things I've built or am building:
+
+- 🐱🐶 [Cat & Dog Classification using CNN + Logistic Regression](#)  
+- 🧬 [Protein GO Function Detection via UniProt + ML](#)  
+- 📹 [OpenCV-based Real-Time Rectangle Capture & Camera Access](#)  
+- 🔍 [YOLOv8 Object Detection - Custom Training & Troubleshooting](#)  
+- 🧠 [PACF/ACF based Time Series Stationarity Analysis](#)
+
+> *More coming soon... stay tuned!*
+
+---
+
+### 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shashwat-dev-hans-469614294/)
+- 📧 Email: shashwatdevhans@gmail.com
+- 🌐 Portfolio: Coming soon...
+
+---
+
+### 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv5/v8-292929?style=flat&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShashwatDevHans&show_icons=true&theme=tokyonight" alt="Shashwat's GitHub Stats" />
+</p>
+
+<p align="right">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShashwatDevHans&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+> I love decoding biological data with code, and bringing **science + AI** together is my jam!  
+> “Stay curious, code confidently.”
